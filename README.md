@@ -8,7 +8,7 @@
     <img align="center" src="https://tecnow.altervista.org/wp-content/uploads/2020/10/TecnoW.png" height="48" width="48" />
   </a>
   &nbsp;
-  <a href="https://softbed.appheroku.com/" target="blank" title="Softbed (Website)" alt="Softbed [Website]">
+  <a href="https://softbed.herokuapp.com/" target="blank" title="Softbed (Website)" alt="Softbed [Website]">
     <img align="center" src="https://softbed.herokuapp.com/logo192.png" height="48" width="48" />
   </a>
   &nbsp;

@@ -5,19 +5,19 @@
 <h2 align="left">What I do</h2>
 <p align="left">
   <a href="https://tecnow.altervista.org/" target="blank" title="TecnoW (Blog)" alt="TecnoW [Blog]">
-    <img align="center" src="https://tecnow.altervista.org/wp-content/uploads/2020/10/TecnoW.png" height="48" width="48" />
+    <img align="center" src="https://raw.githubusercontent.com/salvatorelococo/salvatorelococo/main/tecnow.png" height="48" width="48" />
   </a>
   &nbsp;
   <a href="https://softbed.herokuapp.com/" target="blank" title="Softbed (Website)" alt="Softbed [Website]">
-    <img align="center" src="https://www.mediafire.com/convkey/cabb/ja6njb1umkgmv4szg.jpg" height="48" width="48" />
+    <img align="center" src="https://raw.githubusercontent.com/salvatorelococo/salvatorelococo/main/softbed.png" height="48" width="48" />
   </a>
   &nbsp;
   <a href="https://bidoo-stats.herokuapp.com/" target="blank" title="Bidoo Stats (Website)" alt="Bidoo Stats [Website]">
-    <img align="center" src="https://www.mediafire.com/convkey/1b64/1suc47eg5rzcqowzg.jpg" height="48" width="48" />
+    <img align="center" src="https://raw.githubusercontent.com/salvatorelococo/salvatorelococo/main/bidoo-stats.png" height="48" width="48" />
   </a>
   &nbsp;
   <a href="https://t.me/instaCrescitaBot?start=28995855" target="blank" title="Insta Crescita (Telegram Bot)" alt="Insta Crescita [Telegram Bot]">
-    <img align="center" src="https://scontent-mxp1-2.cdninstagram.com/v/t51.2885-19/s150x150/162556411_350051306361435_5456519907675387620_n.jpg?tp=1&_nc_ht=scontent-mxp1-2.cdninstagram.com&_nc_ohc=IsxpyEcURugAX_Fd0HG&edm=ABfd0MgAAAAA&ccb=7-4&oh=dddc4de0ea8522b2825dd0f38c665962&oe=60969EDE&_nc_sid=7bff83" height="48" width="48" />
+    <img align="center" src="https://raw.githubusercontent.com/salvatorelococo/salvatorelococo/main/insta-crescita.png" height="48" width="48" />
   </a>
 </p>
 

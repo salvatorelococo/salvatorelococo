@@ -9,11 +9,11 @@
   </a>
   &nbsp;
   <a href="https://softbed.herokuapp.com/" target="blank" title="Softbed (Website)" alt="Softbed [Website]">
-    <img align="center" src="https://softbed.herokuapp.com/logo192.png" height="48" width="48" />
+    <img align="center" src="https://www.mediafire.com/convkey/cabb/ja6njb1umkgmv4szg.jpg" height="48" width="48" />
   </a>
   &nbsp;
   <a href="https://bidoo-stats.herokuapp.com/" target="blank" title="Bidoo Stats (Website)" alt="Bidoo Stats [Website]">
-    <img align="center" src="https://bidoo-stats.herokuapp.com/logo192.png" height="48" width="48" />
+    <img align="center" src="https://www.mediafire.com/convkey/1b64/1suc47eg5rzcqowzg.jpg" height="48" width="48" />
   </a>
   &nbsp;
   <a href="https://t.me/instaCrescitaBot?start=28995855" target="blank" title="Insta Crescita (Telegram Bot)" alt="Insta Crescita [Telegram Bot]">

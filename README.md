@@ -1,6 +1,7 @@
 <h2 align="left">Hi there 👋 I'm SLC.</h2>
 <h3 align="left">I'm just doing my best.</h3>
 
+<!--
 <br/>
 <h2 align="left">What I do</h2>
 <p align="left">
@@ -20,6 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/salvatorelococo/salvatorelococo/main/insta-crescita.png" height="48" width="48" />
   </a>
 </p>
+-->
 
 <br/>
 <h2 align="left">Connect with me</h3>
